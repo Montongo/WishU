@@ -82,7 +82,7 @@ var timer = setInterval(function () {
 
 setTimeout(function () {
   clearInterval(timer);
-}, 22000);
+}, 24000);
 
 
 // takes custom input from input.json from whichever field is not empty, otherwise html text is used.
